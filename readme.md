@@ -42,7 +42,7 @@ Contains parameters that define:
 ## Run tests:
 To run tests:
 * Open an Android Virtual Device.
-* Open Appium and start Server (look for the capabilities in BaseTest).
+* Open Appium and start Server (look for the capabilities in "CapabilitiesForAppium" file).
 * Execute the testng.xml file.
 
 ## Reports:
